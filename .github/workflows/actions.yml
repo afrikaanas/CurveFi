@@ -19,7 +19,7 @@ jobs:
       - name: Check formatting
         run: forge fmt --check
 
-      - name: Check formatting
+      - name: Check Gassnapshots
         run: forge snapshot --check
 
 
